@@ -27,11 +27,11 @@ Session folder to be stored.
 When you are ready, click '*Open*'. Ardour
 will create the new Session and then open it.
 
-![New Session]({{ site.url }}/images/Ardour5_Session_Setup_2.png)
+![New Session]({{ site.url }}/images/Ardour6_Session_Setup_2.png)
 
 Depending on the sound settings of your computer, you may see a window like this before your session launches:
 
-![New Session Set-Up]({{ site.url }}/images/Ardour4_Session_Audio_MIDI_Setup.png)
+![New Session Set-Up]({{ site.url }}/images/Ardour6_Session_Audio_MIDI_Setup.png)
 
 The main options are:
 
