@@ -64,7 +64,7 @@ button. The right button hides the Mixer Strip entirely.
 
 Continuing from top to bottom, the next section of the Mixer Strip
 contains three narrow regions. The first of these regions shows the name of the Track (that's the word
-"*clap*" in the image below). The next region, named "*2*" in the image below,
+"*Audio 1*" in the image below). The next region, named "*1*" in the image below,
 is a button which allows access to the input Routing. Please see the
 **Understanding Routing** and **Recording Audio** chapters for more
 information on input Routing. The last narrow region controls phase
