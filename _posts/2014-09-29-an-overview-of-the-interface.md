@@ -215,19 +215,6 @@ Switching Between Windows
 You can use the key combination "*Alt*" + "*M*" ("*Control*"+ "*M*" on a
 Mac) in order to toggle which window is on top: Editor or Mixer.
 
-Detaching and Reattaching Menus
--------------------------------
-
-Most of the major menus in the Editor Window can be detached from the
-Editor Window by clicking the white, downwards pointing arrow on the far
-right-hand side of that menu.
-
-![Zoom Options]({{ site.url }}/images/Ardour6_Zoom_Options.png)
-
-The detached menu will become a separate window on your screen, which
-can be reattached to the Editor Window by clicking the white,
-upwards-pointing arrow which now appears on the far right-hand side.
-
 Continuing
 ----------
 
