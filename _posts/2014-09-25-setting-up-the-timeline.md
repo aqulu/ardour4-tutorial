@@ -2,7 +2,7 @@
 layout: post
 title: "Setting Up the Timeline"
 description:
-comments: false 
+comments: false
 tags: [02 GETTING STARTED]
 image:
   feature: Ardour3_Empty_Session_Transparent.png
@@ -29,7 +29,7 @@ display the time in a number of formats: *Timecode*, *Bars:Beats*,
 *Minutes:Seconds* and *Samples*. Right-click to change the format of
 each of the two clocks.
 
-![Clock Units]({{ site.url }}/images/Ardour4_Clock_Units.png)
+![Clock Units]({{ site.url }}/images/Ardour6_Clock_Units.png)
 
 These are called the transport clocks. The left one is the primary
 transport clock and the right one is the secondary transport clock. The
@@ -37,7 +37,7 @@ advantage of having two transport clocks is that you see the playhead
 position in two different time units without having to change any
 settings.
 
-To the right of these two clocks you see the "mini-timeline", also called "navigation timeline". Check the Ardour Manual for more informaion on [clocks](http://manual.ardour.org/ardours-interface/using-ardour-clock-displays/) and the [mini-timeline](https://manual.ardour.org/ardours-interface/mini-timeline/). 
+To the right of these two clocks you see the "mini-timeline", also called "navigation timeline". Check the Ardour Manual for more informaion on [clocks](http://manual.ardour.org/ardours-interface/using-ardour-clock-displays/) and the [mini-timeline](https://manual.ardour.org/ardours-interface/mini-timeline/).
 
 Snap Modes
 ----------
@@ -47,7 +47,7 @@ They control the amount **Quantization** of the time grid, i.e., the
 amount of "snap" an audio **Region** has to the type of grid you have
 chosen.
 
-![Snap]({{ site.url }}/images/Ardour4_Snap_Options_and_Nudge_Controls.png)
+![Snap]({{ site.url }}/images/Ardour6_Snap_Options_and_Nudge_Controls.png)
 
 When *No Grid* is selected, Regions may be moved freely around within
 the Tracks. When *Grid* is selected, Regions will "snap" to the nearest
@@ -64,7 +64,7 @@ Timeline
 The **Timeline** is located below the Snap Mode menus, just above the
 Main Canvas. By Right-Clicking on the Timeline labels (i.e., right-click on the left-side area where the words "Timecode, Bar:Beats, Meter" etc are displayed), you can set the check boxes to show or hide the different types of time information.
 
-![Timeline]({{ site.url }}/images/Ardour4_Overview_Rulers.png)
+![Timeline]({{ site.url }}/images/Ardour6_Overview_Rulers.png)
 
 ### Minutes/Seconds
 
@@ -79,7 +79,7 @@ select **Bars & Beats**.
 It is possible to set a **Meter** and **Tempo** for the entire Ardour
 session, as well as to change them at different points in the same
 session. For more information on this, please see the **Setting Up the
-Meter** chapter. 
+Meter** chapter.
 
 ### Timecode
 
@@ -88,7 +88,7 @@ fps** (Frames per Second). This can be found in the Timecode tab of the
 Session Properties window (menu *Session > Properties* or shortcut
 *"Alt"* + *"O"*)*.*
 
-![Timecode]({{ site.url }}/images/Ardour4_Timecode.png) 
+![Timecode]({{ site.url }}/images/Ardour6_Timecode.png)
 
 Once you have done that, make sure you make the Timecode ruler visible
 by right-clicking in the Timeline and checking the *Timecode* box.
@@ -97,6 +97,6 @@ Continuing
 ----------
 
 Now that you've set up the Timeline, continue on to the chapter on
-creating tracks and busses to add one or more **Tracks** to your Session. 
+creating tracks and busses to add one or more **Tracks** to your Session.
 
 Next: [CREATING A TRACK OR BUS](../creating-a-track-or-bus)
